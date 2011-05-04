@@ -1,0 +1,789 @@
+From LISTSERV@LISTSERV.ACM.ORG Sun Oct 14 21:50:38 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l9F3ocT4016492
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Sun, 14 Oct 2007 21:50:38 -0600
+X-ASG-Debug-ID: 1192420220-788600e90000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1192420220
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 0BBA12B623C
+	for <crader@MINES.EDU>; Sun, 14 Oct 2007 21:50:21 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <3.004014AB@ozzie.acm.org>; Mon, 15 Oct 2007 0:01:05 -0400
+Date:     Mon, 15 Oct 2007 00:00:53 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 13 Oct 2007 to 14 Oct 2007 (#2007-171)
+Subject: [spam-medium]  SIGCSE-members Digest - 13 Oct 2007 to 14 Oct 2007 (#2007-171)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200710150000538280.50BE@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 2.53
+X-Barracuda-Spam-Status: Yes, SCORE=2.53 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=BSF_RULE7568M, BSF_RULE_7582B, BSF_SC0_SA074c, FROM_NO_LOWER, MAILTO_TO_SPAM_ADDR
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.31184
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+	0.50 BSF_RULE7568M          BODY: Custom Rule 7568M
+	1.05 BSF_RULE_7582B         BODY: Custom Rule 7582B
+	0.50 BSF_SC0_SA074c         URI: Custom Rule SA074c
+	0.28 MAILTO_TO_SPAM_ADDR    URI: Includes a link to a likely spammer email
+X-Priority: 5 (Lowest)
+X-MSMail-Priority: Low
+Importance: Low
+X-Barracuda-Spam-Flag: YES
+
+There are 2 messages totalling 742 lines in this issue.
+
+Topics of the day:
+
+  1. Fwd: Female academic performance in math, science, engineering
+  2. Fwd: Submission Deadline Extended for GDCSE 2008
+
+----------------------------------------------------------------------
+
+Date:    Sun, 14 Oct 2007 10:47:16 -0500
+From:    Paul Myers <pmyers14@MAC.COM>
+Subject: Fwd: Female academic performance in math, science, engineering
+
+--Apple-Mail-27--678728497
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain;
+        charset=US-ASCII;
+        delsp=yes;
+        format=flowed
+
+
+
+
+Women in the CS field and in CS classrooms have been an ongoing
+concern for SIGCSE.  In SIGCSE forums we have seen plenty of
+anecdotal evidence on the issues raised in this recent email from my
+school's counseling service.  But here an actual study is cited that
+I'm sure will be of interest ...
+
+Paul
+
+
+
+Begin forwarded message:
+>
+> From: "Reams, Richard" <rreams@trinity.edu>
+> Date: October 13, 2007 1:16:39 PM CDT
+> To: "TigerTalk" <tigertalk@lyris.its.trinity.edu>
+> Subject: Female academic performacne in math, science, engineering
+> Reply-To: "Reams, Richard" <rreams@trinity.edu>
+>
+> Here is a news release about an interesting study regarding the impact
+> of gender imbalance on female academic performance in MSE.
+>
+> http://www.psychologicalscience.org/media/releases/2007/murphy.cfm
+>
+>
+> ---------------------------------------------------
+>
+> Richard Reams, Ph.D.
+> Assistant Director
+> Counseling Services
+> Trinity University
+> One Trinity Place
+> San Antonio, Texas 78212-7200
+>
+> 215 Coates University Center
+> Voice:  210.999.7411
+> Fax:  210.999.7848
+> www.trinity.edu/counseling
+
+
+
+
+
+****************************************
+
+J. Paul Myers, Jr.
+Department of Computer Science
+Trinity University
+San Antonio, Texas  78212
+
+PHONE:  (210) 999-7398
+FAX:    (210) 999-7477
+
+pmyers@trinity.edu
+
+****************************************
+
+
+
+
+--Apple-Mail-27--678728497
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+        charset=ISO-8859-1
+
+<html><body style=3D"word-wrap: break-word; -webkit-nbsp-mode: space; =
+-webkit-line-break: after-white-space; ">
+<br><div><br class=3D"webkit-block-placeholder"></div><div><br =
+class=3D"webkit-block-placeholder"></div><div>Women in the CS field and =
+in CS classrooms have been an ongoing concern for SIGCSE. =A0In SIGCSE =
+forums we have seen plenty of anecdotal evidence on the issues raised in =
+this recent email from my school's counseling service. =A0But here an =
+actual study is cited that I'm sure will be of interest =
+...</div><div><br =
+class=3D"webkit-block-placeholder"></div><div>Paul</div><div><br =
+class=3D"webkit-block-placeholder"></div><div><br></div><div><br><div>Begi=
+n forwarded message:</div><blockquote type=3D"cite"><br =
+class=3D"Apple-interchange-newline"></blockquote><blockquote =
+type=3D"cite"><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; "><font face=3D"Helvetica" =
+size=3D"3" color=3D"#000000" style=3D"font: 12.0px Helvetica; color: =
+#000000"><b>From: </b></font><font face=3D"Helvetica" size=3D"3" =
+style=3D"font: 12.0px Helvetica">"Reams, Richard" &lt;<a =
+href=3D"mailto:rreams@trinity.edu">rreams@trinity.edu</a>&gt;</font></div>=
+<div style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; "><font face=3D"Helvetica" size=3D"3" color=3D"#000000" =
+style=3D"font: 12.0px Helvetica; color: #000000"><b>Date: =
+</b></font><font face=3D"Helvetica" size=3D"3" style=3D"font: 12.0px =
+Helvetica">October 13, 2007 1:16:39 PM CDT</font></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; "><font face=3D"Helvetica" size=3D"3" color=3D"#000000" =
+style=3D"font: 12.0px Helvetica; color: #000000"><b>To: </b></font><font =
+face=3D"Helvetica" size=3D"3" style=3D"font: 12.0px =
+Helvetica">"TigerTalk" &lt;<a =
+href=3D"mailto:tigertalk@lyris.its.trinity.edu">tigertalk@lyris.its.trinit=
+y.edu</a>&gt;</font></div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px; "><font face=3D"Helvetica" =
+size=3D"3" color=3D"#000000" style=3D"font: 12.0px Helvetica; color: =
+#000000"><b>Subject: </b></font><font face=3D"Helvetica" size=3D"3" =
+style=3D"font: 12.0px Helvetica"><b>Female academic performacne in math, =
+science, engineering</b></font></div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><font =
+face=3D"Helvetica" size=3D"3" color=3D"#000000" style=3D"font: 12.0px =
+Helvetica; color: #000000"><b>Reply-To: </b></font><font =
+face=3D"Helvetica" size=3D"3" style=3D"font: 12.0px Helvetica">"Reams, =
+Richard" &lt;<a =
+href=3D"mailto:rreams@trinity.edu">rreams@trinity.edu</a>&gt;</font></div>=
+<div style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div> <div style=3D"margin-top:=
+ 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">Here is =
+a news release about an interesting study regarding the impact</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">of gender imbalance on female academic performance =
+in MSE.</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><br></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; "><a =
+href=3D"http://www.psychologicalscience.org/media/releases/2007/murphy.cfm=
+">http://www.psychologicalscience.org/media/releases/2007/murphy.cfm</a></=
+div><div style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: =
+0px; margin-left: 0px; min-height: 14px; "><br></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+">---------------------------------------------------</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">Richard =
+Reams, Ph.D.</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">Assistant Director</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">Counseling Services</div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">Trinity =
+University</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">One Trinity Place</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">San Antonio, Texas 78212-7200</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">215 =
+Coates University Center</div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">Voice:<span =
+class=3D"Apple-converted-space">=A0 </span>210.999.7411</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">Fax:<span class=3D"Apple-converted-space">=A0 =
+</span>210.999.7848</div><div style=3D"margin-top: 0px; margin-right: =
+0px; margin-bottom: 0px; margin-left: 0px; =
+">www.trinity.edu/counseling</div> </blockquote><br></div><div><br =
+class=3D"webkit-block-placeholder"></div><div><br =
+class=3D"webkit-block-placeholder"></div><div><span =
+class=3D"Apple-style-span" style=3D"border-collapse: separate; =
+border-spacing: 0px 0px; color: rgb(0, 0, 0); font-family: Helvetica; =
+font-size: 12px; font-style: normal; font-variant: normal; font-weight: =
+normal; letter-spacing: normal; line-height: normal; text-align: auto; =
+-khtml-text-decorations-in-effect: none; text-indent: 0px; =
+-apple-text-size-adjust: auto; text-transform: none; orphans: 2; =
+white-space: normal; widows: 2; word-spacing: 0px; "><span =
+class=3D"Apple-style-span" style=3D"border-collapse: separate; =
+border-spacing: 0px 0px; color: rgb(0, 0, 0); font-family: Helvetica; =
+font-size: 12px; font-style: normal; font-variant: normal; font-weight: =
+normal; letter-spacing: normal; line-height: normal; text-align: auto; =
+-khtml-text-decorations-in-effect: none; text-indent: 0px; =
+-apple-text-size-adjust: auto; text-transform: none; orphans: 2; =
+white-space: normal; widows: 2; word-spacing: 0px; "><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><br class=3D"khtml-block-placeholder"></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; =
+">****************************************</div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><br class=3D"khtml-block-placeholder"></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">J. Paul Myers, Jr.</div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+">Department of Computer Science</div><div style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">Trinity =
+University</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">San Antonio, Texas=A0<span =
+class=3D"Apple-converted-space">=A0</span>78212</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+">PHONE:=A0<span class=3D"Apple-converted-space">=A0</span>(210) =
+999-7398</div><div style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">FAX:=A0 =A0<span =
+class=3D"Apple-converted-space">=A0</span>(210) 999-7477</div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><a =
+href=3D"mailto:pmyers@trinity.edu">pmyers@trinity.edu</a></div><div =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><br></div><div style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+">****************************************</div><div><br =
+class=3D"khtml-block-placeholder"></div><br =
+class=3D"Apple-interchange-newline"></span></span> =
+</div><br></body></html>=
+
+--Apple-Mail-27--678728497--
+
+------------------------------
+
+Date:    Sat, 13 Oct 2007 10:09:09 -0400
+From:    Ursula Wolz <wolz@TCNJ.EDU>
+Subject: Fwd: Submission Deadline Extended for GDCSE 2008
+
+--Apple-Mail-111--771014745
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+        charset=UTF-8;
+        delsp=yes;
+        format=flowed
+
+
+Dear SICGSE  members,
+
+
+=EF=BF=BC GDCSE=E2=80=9908 PAPER SUBMISSION DEADLINE EXTENDED =E2=80=93 =
+OCTOBER 22, =20
+2007     =EF=BF=BC
+
+
+
+
+
+The GDCSE=E2=80=9908 paper submission deadline for academic papers is =20=
+
+quickly approaching:
+
+
+Submissions deadline:
+
+October 22, 2007 =E2=80=93 deadline extended!
+
+Conference Paper Submissions:
+
+http://gdcse2008.confmaster.net
+
+
+
+CONFERENCE OVERVIEW
+
+
+
+GDCSE =E2=80=9808 =E2=80=93 the Third Annual Microsoft Academic Days =
+Conference on =20
+Game Development in Computer Science Education =E2=80=93 is a focal =
+point =20
+for academic efforts using computer and console games within the =20
+Computer Science curriculum.  Jointly sponsored by Microsoft Research =20=
+
+and Electronic Arts, the conference is targeted at both computer =20
+science educators and researchers, promoting new efforts in the =20
+creation and management of courses and curriculum using game =20
+development.  The conference, now in its third year, will be held =20
+aboard the Celebrity Century cruise ship, departing from and =20
+returning to Miami, FL with port calls in Key West and Cozumel, =20
+Mexico. GDCSE=E2=80=9908 will include talks by invited speakers, =20
+presentation of peer-reviewed papers, hands-on tutorials and birds-of-=20=
+
+a-feather meetings focusing on a range of topics related to the use =20
+of games in computer science education. We invite researchers and =20
+educators to share insights and cutting-edge results relating to the =20
+use of games and game technologies in both formal and informal =20
+educational contexts.
+
+
+
+PAPERS
+
+
+
+All submissions will be evaluated for their technical merit, =20
+significance, clarity and their relevance both to researchers =20
+interested in the efficacy of games-based instruction and to faculty =20
+interested in the design of courses and programs that make use of =20
+games. All papers must show rigorous and compelling evaluation of the =20=
+
+ideas they present. Topics should be explicitly related to the use of =20=
+
+game development in Computer Science Education, including but not =20
+limited to:
+
+
+
+=C2=B7    The design, execution and integration of game development =20
+classes within the Computer Science major.
+
+=C2=B7    The use of game development projects in traditional Computer =20=
+
+Science classes.
+
+=C2=B7    Game development courses as capstone projects.
+
+=C2=B7    Interdisciplinary collaboration with non-CS disciplines (both =20=
+
+for students and for faculty).
+
+=C2=B7    Game development concentrations and majors.
+
+=C2=B7    Laboratory and infrastructure requirements for game =
+development =20
+classes.
+
+=C2=B7    The effect of game development classes on the Computer Science =
+=20
+student.
+
+
+
+All accepted paper submissions will be published in the conference =20
+proceedings, which will be available on CD, and will also be included =20=
+
+in the ACM Digital Library.  Expanded versions of top papers from the =20=
+
+proceedings will be selected to appear in a special issue of the =20
+Journal of Game Development.  For a paper to appear in the =20
+proceedings, at least one author must register for the conference by =20
+the deadline for camera-ready copy submission.  Travel costs for one =20
+author of each accepted paper will be provided by Microsoft, =20
+including round-trip airfare to Miami as well as conference and =20
+cruise ship registration costs.  Specific restrictions apply for =20
+government employees and faculty from US Public Universities. Consult =20=
+
+the conference web site (www.microsoft4me.com/faculty/events/=20
+adgd2008) for further details.
+
+
+
+Electronic paper submission is required. Specific submission =20
+instructions are available at the GDCSE web site.  Paper authors must =20=
+
+submit their papers by 11PM Pacific time on October 22, 2007 (note =20
+new extended deadline).  Papers must not exceed five pages and must =20
+comply with the official ACM proceedings format using one of the =20
+templates provided at http://www.acm.org/sigs/pubs/proceed/=20
+template.html.  GDCSE 08 will not accept any paper that, at the time =20
+of submission, is under review for or has already been published or =20
+accepted for publication in a journal or another conference. This =20
+restriction does not apply to submissions for workshops and other =20
+venues with a limited audience.
+
+
+
+=09
+
+
+
+
+--Apple-Mail-111--771014745
+Content-Type: multipart/related;
+        type="text/html";
+        boundary=Apple-Mail-112--771014744
+
+
+--Apple-Mail-112--771014744
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+        charset=WINDOWS-1252
+
+<HTML><BODY style=3D"word-wrap: break-word; -khtml-nbsp-mode: space; =
+-khtml-line-break: after-white-space; "><DIV><DIV><BR =
+class=3D"khtml-block-placeholder"></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">Dear SICGSE=A0 =
+members,</DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR><IMG =
+src=3D"cid:F0A447C3-B7D9-4CED-AFD8-8F1E5158FE1A@local"><SPAN =
+class=3D"Apple-converted-space">=A0</SPAN><B>GDCSE=9208 PAPER SUBMISSION =
+DEADLINE EXTENDED =96 OCTOBER 22, 2007</B><SPAN =
+class=3D"Apple-converted-space"><B>=A0</B> =A0 =A0</SPAN><IMG =
+src=3D"cid:27445611-1F65-41D5-88F5-BB44D5CCAE08@local"><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">The =
+GDCSE=9208 paper submission deadline for academic papers is quickly =
+approaching:</DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+">Submissions deadline:</DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">October 22, 2007 =96 deadline =
+extended!</DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">Conference Paper Submissions:</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; "><A =
+href=3D"http://gdcse2008.confmaster.net">http://gdcse2008.confmaster.net</=
+A></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: =
+0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">CONFERENCE =
+OVERVIEW</DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">GDCSE =9108 =96=
+ the Third Annual Microsoft Academic Days Conference on Game Development =
+in Computer Science Education =96 is a focal point for academic efforts =
+using computer and console games within the Computer Science =
+curriculum.<SPAN class=3D"Apple-converted-space">=A0 </SPAN>Jointly =
+sponsored by Microsoft Research and Electronic Arts, the conference is =
+targeted at both computer science educators and researchers, promoting =
+new efforts in the creation and management of courses and curriculum =
+using game development.<SPAN class=3D"Apple-converted-space">=A0 =
+</SPAN>The conference, now in its third year, will be held aboard the =
+Celebrity Century cruise ship, departing from and returning to Miami, FL =
+with port calls in Key West and Cozumel, Mexico. GDCSE=9208 will include =
+talks by invited speakers, presentation of peer-reviewed papers, =
+hands-on tutorials and birds-of-a-feather meetings focusing on a range =
+of topics related to the use of games in computer science education. We =
+invite researchers and educators to share insights and cutting-edge =
+results relating to the use of games and game technologies in both =
+formal and informal educational contexts.</DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">PAPERS</DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">All =
+submissions will be evaluated for their technical merit, significance, =
+clarity and their relevance both to researchers interested in the =
+efficacy of games-based instruction and to faculty interested in the =
+design of courses and programs that make use of games. All papers must =
+show rigorous and compelling evaluation of the ideas they present. =
+Topics should be explicitly related to the use of game development in =
+Computer Science Education, including but not limited to:</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">=B7<SPAN =
+class=3D"Apple-converted-space">=A0 =A0 </SPAN>The design, execution and =
+integration of game development classes within the Computer Science =
+major.</DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">=B7<SPAN class=3D"Apple-converted-space">=A0 =A0 =
+</SPAN>The use of game development projects in traditional Computer =
+Science classes.</DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">=B7<SPAN class=3D"Apple-converted-space">=A0 =A0 =
+</SPAN>Game development courses as capstone projects.</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">=B7<SPAN =
+class=3D"Apple-converted-space">=A0 =A0 </SPAN>Interdisciplinary =
+collaboration with non-CS disciplines (both for students and for =
+faculty).</DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; ">=B7<SPAN class=3D"Apple-converted-space">=A0 =A0 =
+</SPAN>Game development concentrations and majors.</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">=B7<SPAN =
+class=3D"Apple-converted-space">=A0 =A0 </SPAN>Laboratory and =
+infrastructure requirements for game development classes.</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; ">=B7<SPAN =
+class=3D"Apple-converted-space">=A0 =A0 </SPAN>The effect of game =
+development classes on the Computer Science student.</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">All accepted paper submissions =
+will be published in the conference proceedings, which will be available =
+on CD, and will also be included in the ACM Digital Library.<SPAN =
+class=3D"Apple-converted-space">=A0 </SPAN>Expanded versions of top =
+papers from the proceedings will be selected to appear in a special =
+issue of the Journal of Game Development.<SPAN =
+class=3D"Apple-converted-space">=A0 </SPAN>For a paper to appear in the =
+proceedings, at least one author must register for the conference by the =
+deadline for camera-ready copy submission.<SPAN =
+class=3D"Apple-converted-space">=A0 </SPAN>Travel costs for one author =
+of each accepted paper will be provided by Microsoft, including =
+round-trip airfare to Miami as well as conference and cruise ship =
+registration costs.<SPAN class=3D"Apple-converted-space">=A0 =
+</SPAN>Specific restrictions apply for government employees and faculty =
+from US Public Universities. Consult the conference web site (<A =
+href=3D"http://www.microsoft4me.com/faculty/events/adgd2008">www.microsoft=
+4me.com/faculty/events/adgd2008</A>) for further details.</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; ">Electronic paper submission is =
+required. Specific submission instructions are available at the GDCSE =
+web site.<SPAN class=3D"Apple-converted-space">=A0 </SPAN>Paper authors =
+must submit their papers by 11PM Pacific time on October 22, 2007 (note =
+new extended deadline).<SPAN class=3D"Apple-converted-space">=A0 =
+</SPAN>Papers must not exceed five pages and must comply with the =
+official ACM proceedings format using one of the templates provided at =
+<A =
+href=3D"http://www.acm.org/sigs/pubs/proceed/template.html">http://www.acm=
+.org/sigs/pubs/proceed/template.html</A>.<SPAN =
+class=3D"Apple-converted-space">=A0 </SPAN>GDCSE 08 will not accept any =
+paper that, at the time of submission, is under review for or has =
+already been published or accepted for publication in a journal or =
+another conference. This restriction does not apply to submissions for =
+workshops and other venues with a limited audience.</DIV><DIV =
+style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; =
+margin-left: 0px; min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: =
+0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; =
+min-height: 14px; "><BR></DIV><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><P style=3D"margin: 0.0px 0.0px 0.0px 0.0px; =
+min-height: 14.0px"><SPAN class=3D"Apple-tab-span" =
+style=3D"white-space:pre">      </SPAN><BR =
+class=3D"khtml-block-placeholder"></P><DIV style=3D"margin-top: 0px; =
+margin-right: 0px; margin-bottom: 0px; margin-left: 0px; min-height: =
+14px; "><BR></DIV><DIV style=3D"margin-top: 0px; margin-right: 0px; =
+margin-bottom: 0px; margin-left: 0px; min-height: 14px; "><BR></DIV> =
+</DIV><BR></BODY></HTML>=
+
+--Apple-Mail-112--771014744
+Content-Transfer-Encoding: base64
+Content-Id: <F0A447C3-B7D9-4CED-AFD8-8F1E5158FE1A@local>
+Content-Type: image/jpeg;
+        x-unix-mode=0666;
+        name=image002.jpg
+Content-Disposition: inline;
+        filename=image002.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCACPAIUDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD15mO4
+8nrSbj6n86lKLk8UbF9KyuXci3H1P50bj6n86l2L6UbF9KVwuRbj6n86Nx9T+dS7F9KNi+lFwuRb
+j6n86Nx9T+dS7VHaub1PxEY7pY7HaUjb52PIf2HtWkISm7IznVjBXkb+4+p/OjcfU/nUOn31vqNu
+JYuCOHQ9VNW9i+lQ7p2Zakmroi3H1P50bj6n86l2L6UbF9KVx3Itx9T+dG4+p/Opdi+lGxfSi4XI
+tx9T+dG4+p/Opdi+lGxfSi4XGxknOSaKeqgdBRWiehLFPWkpT1pKyGFFFFABRR0rlde1/wA4tZ2b
+/u+kkg/i9h7VpTpuo7IyqVI01di69r3nlrO0b930eQfxew9q5+kzRmvWhTUFZHkzqObuyzZX01hc
+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
+iqWwgPWkpT1pKgoK5TxR4X+0h7+wT991liH8fuPf+ddXRWlOpKnLmiZVKcakeWRwHh/xMLKP+z9R
+BktD8oYjJj9iO4/lWtd6AJYxdaXIs0LjIUNn8j3pninwv9pD6hp6fvussQ/j9x7/AM65PT9Xv9Kk
+JtJ2jGfmQ8qfqK9OMVVXtKTs+qPNlJ0n7OqrrozXkieFykqMjDswxTcVdg8dRyoE1HTVk/2oyCPy
+P+NTf8JH4YblrCQH08of40XqreH3Bam9pGZirtnpF5ekeXEUQ/xuMD/69St4u0S2GbPTHZuxKqv6
+81l6h4y1O9UxwlbSM/8APPlvz/woSrS2jb1BulHeV/Q3rq+03wrAyRkXN+w6en19BXN2Fhf+KNUe
+WRyQTmaYjhR6D+gqDRtGudcvCiErGDmWY84/xNelWNjb6daJbWybI1/Mn1PvUVJxw6sneT6l04Sx
+Du9IroFjY2+nWqW1sgSNfzJ9T71YoorzG23dnppJKyCiiikMUUUCirWxIHrSUp60lQUFFFFABXJ+
+KfC32nfqGnp++6yxD+P3Hv8AzrrKK0pVZU5c0TOpTjUjyyPG6Su58U+FvtO/UNPT991liH8fuPf+
+dcP04Ne7RrRqxujw6tKVKVmJWlomiXGtXflx/JEv+slI4Uf40aJolxrV35cfyRL/AKyUjhR/jXpd
+jY2+nWiW1sgSNPzJ9T71jicSqS5Y7m2GwzqPmlsFjY2+nWiW1sgSNfzJ9T71YoorxW23dnspJKyC
+iiikMKKKKAFFFAoq1sSB60lKRzRipsxiUUuKMUrMYlFLijFFmAlc1rfg+LUrxLm2kW3Z2/fjHBHq
+PeumxRitKc503eJnUpxqK0itY2NvptoltbJsjX8yfU+9WKXFGKh3buy0klZCUUuKMUrMYlFLijFF
+mAlFLijFFmACigCitFsSf//Z
+
+--Apple-Mail-112--771014744
+Content-Transfer-Encoding: base64
+Content-Id: <27445611-1F65-41D5-88F5-BB44D5CCAE08@local>
+Content-Type: image/jpeg;
+        x-unix-mode=0666;
+        name=image001.jpg
+Content-Disposition: inline;
+        filename=image001.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwgHBgoICAgLCgoLDhgQDg0NDh0VFhEYIx8lJCIf
+IiEmKzcvJik0KSEiMEExNDk7Pj4+JS5ESUM8SDc9Pjv/2wBDAQoLCw4NDhwQEBw7KCIoOzs7Ozs7
+Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozs7Ozv/wAARCAB5ALcDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDMDUu+
+og1OzW5x3Jd1Lk+tRZpQaCrkoalzUYNG73oAkzS5NR54xSg0AP3Uu6mUUDJN1Lmot1G+gRMB70hI
+qPfSeZQO5Ju9qTeaZvo3A0CuP3E96N1Mzg0mRQA/dRupn40h4oAfupNx7Uwk0maAuSbjRUe6igLk
+Apfxpgal3CmSPzShjUe6l30ASZozTN3vS7vegB4NLk0wNRuzSAkyaXNRZpwyeRyBQMfmjNPa1mUZ
+KHkA8jHXmux8N6VoE2ih7yNJp5M72LH5fYelTKaRcYSZxeR60hqe9tvIvJkiDGFXOxj3XtRYQQXN
+yI7i4WBcdWB59uBxVXW5NnexBkGpRaXLLuWFyp6EDir8uiTXEYTTtV02Q5+UFwpH54NU7vw14uiO
+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
+z8u3qR70Uq/6xvwopFH/2Q==
+
+--Apple-Mail-112--771014744--
+
+--Apple-Mail-111--771014745--
+
+------------------------------
+
+End of SIGCSE-members Digest - 13 Oct 2007 to 14 Oct 2007 (#2007-171)
+*********************************************************************

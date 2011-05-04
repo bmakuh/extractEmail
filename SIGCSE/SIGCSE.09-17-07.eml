@@ -1,0 +1,99 @@
+From LISTSERV@LISTSERV.ACM.ORG Sun Sep 16 21:50:46 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l8H3okOd002850
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Sun, 16 Sep 2007 21:50:46 -0600
+X-ASG-Debug-ID: 1190001040-2bc700190000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1190001040
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 56E6B24DED5
+	for <crader@MINES.EDU>; Sun, 16 Sep 2007 21:50:41 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <6.003C547A@ozzie.acm.org>; Mon, 17 Sep 2007 0:00:46 -0400
+Date:     Mon, 17 Sep 2007 00:00:34 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 14 Sep 2007 to 16 Sep 2007 (#2007-150)
+Subject: SIGCSE-members Digest - 14 Sep 2007 to 16 Sep 2007 (#2007-150)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200709170000348430.7739@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 1.01
+X-Barracuda-Spam-Status: No, SCORE=1.01 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER, INFO_TLD
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.28641
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+	0.81 INFO_TLD               URI: Contains an URL in the INFO top-level domain
+
+There is 1 message totalling 59 lines in this issue.
+
+Topics of the day:
+
+  1. FLAIRS-2008: Special track on Artificial Intelligence Education
+
+----------------------------------------------------------------------
+
+Date:    Sun, 16 Sep 2007 01:47:50 -0700
+From:    Zachary Dodds <dodds@CS.HMC.EDU>
+Subject: FLAIRS-2008: Special track on Artificial Intelligence Education
+
+                           -----[  2 months notice  ]-----
+
+Call For Papers: FLAIRS-2008
+
+   Special Track on Artificial Intelligence Education
+
+21st International FLAIRS conference
+May 15-17, 2008
+Coconut Grove, Florida
+Submission deadline: November 19, 2007
+URL: http://cs.gettysburg.edu/~tneller/flairs08/
+
+
+Papers are being solicited for a special track on AI Education at the
+21st International FLAIRS Conference (FLAIRS-2008). The special track
+will be devoted to methods of teaching AI.  This includes, but is not
+limited to:
+
+   * Model Assignments/Experiences/Syllabi for AI Instruction
+   * Implementation of the Computing Curricula 2001 Intelligent Systems Area
+   * AI Classroom Techniques or Innovations for Undergraduate and/or
+Graduate Instruction
+   * Intelligent Applications for Instruction of AI and assessment of
+such applications
+   * Incorporating AI research into AI courses
+
+
+Submission Guidelines
+
+Interested authors must submit completed manuscripts by November 19,
+2007. Submission guidelines may be obtained at the conference website
+(http://www.flairs-21.info/). Papers will be refereed and those
+accepted for presentation will appear in the conference proceedings,
+to be published by AAAI Press. Authors may be invited to submit a
+revised copy of their paper to a special issue of the International
+Journal on Artificial Intelligence Tools (IJAIT).  Questions regarding
+the track should be addressed to Todd Neller
+(http://cs.gettysburg.edu/~tneller/) or Zachary Dodds
+(http://www.cs.hmc.edu/~dodds/).
+
+Online Resources
+
+   * FLAIRS: http://www.flairs.com
+   * FLAIRS 2008: http://www.flairs-21.info/
+   * AI Education Track: http://cs.gettysburg.edu/~tneller/flairs08/
+
+We look forward to your participation at next year's FLAIRS!
+
+ - Todd Neller and Zach Dodds
+
+------------------------------
+
+End of SIGCSE-members Digest - 14 Sep 2007 to 16 Sep 2007 (#2007-150)
+*********************************************************************

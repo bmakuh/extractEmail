@@ -1,0 +1,54 @@
+From LISTSERV@LISTSERV.ACM.ORG Thu Sep 13 21:50:37 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l8E3oawE010940
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Thu, 13 Sep 2007 21:50:36 -0600
+X-ASG-Debug-ID: 1189741831-3bbe009f0000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1189741831
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 4CAF223792B
+	for <crader@MINES.EDU>; Thu, 13 Sep 2007 21:50:31 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <4.003C146E@ozzie.acm.org>; Fri, 14 Sep 2007 0:00:32 -0400
+Date:     Fri, 14 Sep 2007 00:00:21 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 12 Sep 2007 to 13 Sep 2007 (#2007-148)
+Subject: SIGCSE-members Digest - 12 Sep 2007 to 13 Sep 2007 (#2007-148)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200709140000216400.2CDC@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.28360
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There is 1 message totalling 15 lines in this issue.
+
+Topics of the day:
+
+  1. C and OpenGL in Ubuntu
+
+----------------------------------------------------------------------
+
+Date:    Thu, 13 Sep 2007 06:55:12 -0400
+From:    Gary Schubert <schubertge@MAIL.AB.EDU>
+Subject: C and OpenGL in Ubuntu
+
+I would like to try using C and OpenGL in Ubuntu for my CG class. I am not familiar with how to set C and OpenGL up in Ubuntu. I am starting from a straight install of Ubuntu 7. Is anyone using this setup who would be willing to send me a handout giving instructions on installing the correct student environment?
+
+Thanks in advance,
+
+Gary
+
+------------------------------
+
+End of SIGCSE-members Digest - 12 Sep 2007 to 13 Sep 2007 (#2007-148)
+*********************************************************************

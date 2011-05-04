@@ -1,0 +1,204 @@
+From LISTSERV@LISTSERV.ACM.ORG Tue Sep 18 22:15:09 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l8J4F9G2017054
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Tue, 18 Sep 2007 22:15:09 -0600
+X-ASG-Debug-ID: 1190175298-5128001c0000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1190175298
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id DECC825D32B
+	for <crader@MINES.EDU>; Tue, 18 Sep 2007 22:14:58 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <5.003C9846@ozzie.acm.org>; Wed, 19 Sep 2007 0:01:38 -0400
+Date:     Wed, 19 Sep 2007 00:01:27 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 17 Sep 2007 to 18 Sep 2007 (#2007-152)
+Subject: SIGCSE-members Digest - 17 Sep 2007 to 18 Sep 2007 (#2007-152)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200709190001270460.35C5@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.48
+X-Barracuda-Spam-Status: No, SCORE=0.48 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER, MAILTO_TO_SPAM_ADDR
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.28819
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+	0.28 MAILTO_TO_SPAM_ADDR    URI: Includes a link to a likely spammer email
+
+There are 2 messages totalling 165 lines in this issue.
+
+Topics of the day:
+
+  1. Call for Papers for The Third Annual Microsoft Academic Days Conference on
+     Game Development in Computer Science Education
+  2. ACM Java library
+
+----------------------------------------------------------------------
+
+Date:    Tue, 18 Sep 2007 11:34:57 -0400
+From:    Ursula Wolz <wolz@TCNJ.EDU>
+Subject: Call for Papers for The Third Annual Microsoft Academic Days Conference on Game Development in Computer Science Education
+
+CALL FOR PAPERS
+
+GDCSE=9208, The Third Annual Microsoft Academic Days Conference on Game =20=
+
+Development in Computer Science Education
+
+February 28-March 3, 2008
+On board the Celebrity Century cruise ship, departing from Miami, FL
+
+Submissions deadline:  October 15, 2007
+Conference Paper Submissions:  http://gdcse2008.confmaster.net
+
+GDCSE =9108 =96 the Third Annual Microsoft Academic Days Conference on =20=
+
+Game Development in Computer Science Education =96 is a focal point for =20=
+
+academic efforts using computer and console games within the Computer =20=
+
+Science curriculum.  Jointly sponsored by Microsoft Research and =20
+Electronic Arts, the conference is targeted at both computer science =20
+educators and researchers, promoting new efforts in the creation and =20
+management of courses and curriculum using game development.  The =20
+conference, now in its third year, will be held aboard the Celebrity =20
+Century cruise ship, departing from and returning to Miami, FL with =20
+port calls in Key West and Cozumel, Mexico. GDCSE=9208 will include =20
+talks by invited speakers, presentation of peer-reviewed papers, =20
+hands-on tutorials and birds-of-a-feather meetings focusing on a =20
+range of topics related to the use of games in computer science =20
+education. We invite researchers and educators to share insights and =20
+cutting edge results relating to the use of games and game =20
+technologies in both formal and informal educational contexts.
+
+PAPERS
+
+All submissions will be evaluated for their technical merit, =20
+significance, clarity and their relevance both to researchers =20
+interested in the efficacy of games-based instruction and to faculty =20
+interested in the design of courses and programs that make use of =20
+games. All papers must show rigorous and compelling evaluation of the =20=
+
+ideas they present. Topics should be explicitly related to the use of =20=
+
+game development in Computer Science Education, including but not =20
+limited to:
+
+o The design, execution and integration of game development classes =20
+within the Computer Science major.
+
+o The use of game development projects in traditional Computer =20
+Science classes.
+
+o Game development courses as capstone projects.
+
+o Interdisciplinary collaboration with non-CS disciplines (both for =20
+students and for faculty).
+
+o Game development concentrations and majors.
+
+o Laboratory and infrastructure requirements for game development =20
+classes.
+
+o The effect of game development classes on the Computer Science =20
+student.
+
+All accepted paper submissions will be published in the conference =20
+proceedings, which will be available on CD, and will also be included =20=
+
+in the ACM Digital Library.  Expanded versions of top papers from the =20=
+
+proceedings will be selected to appear in a special issue of the =20
+Journal of Game Development.  For a paper to appear in the =20
+proceedings, at least one author must register for the conference by =20
+the deadline for camera-ready copy submission.  Travel costs for one =20
+author of each accepted paper will be provided by Microsoft, =20
+including round-trip airfare to Miami as well as conference and =20
+cruise ship registration costs.  Specific restrictions apply for =20
+government employees and faculty from US Public Universities. Consult =20=
+
+the conference web site (www.microsoft4me.com/faculty/events/=20
+adgd2008) for further details.
+
+Electronic paper submission is required. Specific submission =20
+instructions are available at the GDCSE web site.  Paper authors must =20=
+
+submit their papers by 11PM Pacific time on October 15, 2007.  Papers =20=
+
+must not exceed five pages and must comply with the official ACM =20
+proceedings format using one of the templates provided at http://=20
+www.acm.org/sigs/pubs/proceed/template.html.  GDCSE 08 will not =20
+accept any paper that, at the time of submission, is under review for =20=
+
+or has already been published or accepted for publication in a =20
+journal or another conference. This restriction does not apply to =20
+submissions for workshops and other venues with a limited audience.
+
+IMPORTANT DATES
+
+-          October 15, 2007: Electronic submission of papers due by =20
+11PM Pacific time.
+
+-          November 18, 2007: Notification of acceptance sent to authors
+
+-          January 8, 2008: Camera-ready copy due
+
+
+CONFERENCE CO-CHAIRS
+
+J. Kent Foster,  Microsoft, Academic Programs (Redmond, WA)
+John Nordlinger, Microsoft Research (Redmond, WA)=09
+
+PROGRAM CHAIR
+
+R. Michael Young,  North Carolina State University(Raleigh, NC)
+
+PROGRAM COMMITTEE
+
+Tiffany Barnes, UNC Charlotte (Charlotte, NC)
+Steve Feiner, Columbia University (New York, NY)
+Ken Forbus, Northwestern (Evanston, IL)
+Tracy Fullerton, USC (Los Angeles, CA)
+Bruce Gooch, University of Victoria (Victoria, BC, Canada)
+John Laird, University of Michigan (Ann Arbor, MI)
+Mark Overmars, Utrecht University (Utrecht, Netherlands)
+Ian Parberry, University of North Texas (Denton, TX)
+Andrew Phelps, Rochester Institute of Technology (Rochester, NY)
+Yusuf Pisan, University of Technology (Sydney, Australia)
+Judy Robertson, Heriot-Watt University (Edinburgh, United Kingdom)
+Ursula Wolz, The College of New Jersey (Ewing, NJ)
+
+FOR ADDITIONAL INFORMATION
+Please see www.microsoft4me.com/faculty/events/adgd2008 for =20
+additional information or email the conference organizers at =20
+gdcse08@microsoft.com.
+
+
+
+R. Michael Young
+Director, Liquid Narrative Group
+Department of Computer Science, NC State University
+http://liquidnarrative.csc.ncsu.edu/rmy/
+
+------------------------------
+
+Date:    Tue, 18 Sep 2007 15:25:39 -0600
+From:    Dan Schuster <dschuster@WESTERN.EDU>
+Subject: ACM Java library
+
+I'm teaching CS1 with the ACM Java library for the second time this fall.
+
+Do you have any feel for the popularity of the library in the
+introductory curriculum and will presentations on the subject be part of
+next year's SIGCSE?
+
+------------------------------
+
+End of SIGCSE-members Digest - 17 Sep 2007 to 18 Sep 2007 (#2007-152)
+*********************************************************************

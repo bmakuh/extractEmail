@@ -1,0 +1,218 @@
+From LISTSERV@LISTSERV.ACM.ORG Mon Sep 03 21:58:44 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l843wi7P013500
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Mon, 3 Sep 2007 21:58:44 -0600
+X-ASG-Debug-ID: 1188878320-513c00730000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1188878320
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 7C39620B742
+	for <crader@MINES.EDU>; Mon,  3 Sep 2007 21:58:40 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <4.003B0EFE@ozzie.acm.org>; Tue, 4 Sep 2007 0:00:30 -0400
+Date:     Tue, 4 Sep 2007 00:00:20 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 2 Sep 2007 to 3 Sep 2007 (#2007-142)
+Subject: SIGCSE-members Digest - 2 Sep 2007 to 3 Sep 2007 (#2007-142)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200709040000204060.37AA@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.27457
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There are 3 messages totalling 183 lines in this issue.
+
+Topics of the day:
+
+  1. Faculty Position at the University of West Georgia
+  2. Teaching with wikis
+  3. 2008 ASEE Annual Conference
+
+----------------------------------------------------------------------
+
+Date:    Mon, 3 Sep 2007 10:48:44 -0400
+From:    "Dr. Adel Abunawass" <adel@WESTGA.EDU>
+Subject: Faculty Position at the University of West Georgia
+
+The Department of Computer Science at the University of West Georgia
+invites applications for a tenure-track faculty position in Computer
+Science for the Spring or Fall 2008 semester. We seek an enthusiastic
+individual who loves teaching and shares our dedication to
+excellence. The position is primarily at the assistant professor
+level, but highly qualified applicants at higher ranks may be
+considered.  A complete description of the position and the
+application process, may be found at: http://www.cs.westga.edu/
+Employment/FacultyPosition. The University of West Georgia is an EO/
+AA Employer.
+
+Adel Abunawass
+Professor & Chair
+Department of Computer Science
+University of West Georgia
+http://www.cs.westga.edu/
+
+------------------------------
+
+Date:    Mon, 3 Sep 2007 15:09:04 -0400
+From:    Ed Gehringer <efg@NCSU.EDU>
+Subject: Re: Teaching with wikis
+
+Last month, I posted a request on this forum for members to tell me =20
+how they have used wikis in teaching.  Here is a summary of what =20
+others reported.
+
+By far the most extensive use of wikis was reported by Mark Guzdial, =20
+who in 2000 and 2001, wrote two papers on the use of his CoWeb, =20
+essentially a wiki, in over 120 courses at Georgia Tech.  The two =20
+papers are http://portal.acm.org/citation.cfm?=20
+id=3D377452&dl=3Dacm&coll=3Dportal
+and
+http://portal.acm.org/citation.cfm?=20
+id=3D358997&coll=3DGUIDE&dl=3DGUIDE&CFID=3D25482559&CFTOKEN=3D35869214
+
+Among the uses he cited were creating pages with bookmarks to Web =20
+sites in a "ubiquitous computing" course; in a course on digital =20
+video effects, case studies on effects in current movies and =20
+generated story boards; and "case libraries," in which students =20
+create information sources and advice for future students.
+
+A number of faculty have used wikis for class discussions.  Lynn =20
+Andrea Stein, at Olin, has used wikis for a variety of purposes, from =20=
+
+signup sheets to participatory discussions.  John Dougherty, of =20
+Haverford, used a wiki to have students reflect on the advantages and =20=
+
+consequences of technologies in a "Fluency with IT" course.  Tom =20
+Naps, at UW-Oshkosh, has used wikis in an ethics course to have =20
+students answer discussion questions and react to classmates' postings.
+
+Tom Wulf, at Cincinnati, has used a wiki for students to post Linden =20
+Scripting Language code for Second Life.  William Joel, at Western =20
+Connecticut State, has used wikis to create a display for =93Living in =20=
+
+a Digital World."  Laurie White, at Mercer, uses wikis in a =20
+Programming Languages course.  At the end of the course, she has the =20
+students do a group project where they learn a new language as a =20
+group, applying concepts learned in the class.  These projects are =20
+shared with the class using a wiki.
+
+Personally, I have used a wiki in three courses:  In my ethics in =20
+computing class, students worked on updates and additional articles =20
+for our Ethics in Computing Web site (http://ethics.csc.ncsu.edu).  =20
+This fall, I am using a wiki in an o-o design class.  Among other =20
+things, I will have the students describe and catalog examples of =20
+design patterns and principles available on the Web.  In my =20
+Architecture of Parallel Computers class, students are helping to =20
+update the textboook (Culler-Singh-Gupta), which is 9 years old, by =20
+researching different sections and writing up their results, complete =20=
+
+with hyperlinks to primary sources.
+
+A few instructors reported negative experiences.  Paul Gestwicki, at =20
+Ball State, experimented with wikis in a game development class.  =20
+However, his students found a lot of material already on the Web, and =20=
+
+found little advantage in creating another wiki.  Robert Adams, at =20
+Grand Valley State, made wikis an optional forum for his class, where =20=
+
+students were invited to expand on his lecture notes.  Unfortunately, =20=
+
+no one did.  My own take on these experiments is that contributing to =20=
+
+a wiki needs to be a graded activity in a class.  I have an internal =20
+NCSU grant this year relating to assessment strategies for wikis.  If =20=
+
+anyone is interested in participating, I would be happy to work with =20
+you, even though you are not at NCSU.
+
+Another concern is defacement of a wiki by outsiders.  This has been =20
+a serious problem for a couple of instructors who responded to my =20
+query.  The consensus is that wikis need to be backed up, and access =20
+needs to be controlled.  One simple (though not very robust) way to =20
+achieve this is not to post the URL of the wiki anywhere on the Web, =20
+including the course Web site.
+
+-Ed
+------------------------------------------------------------------------
+Edward F. Gehringer                     Voice: (919) 515-2066
+Associate Professor                     Fax:   (919) 513-7075
+Computer Science                        E-mail: efg@ncsu.edu
+North Carolina State University         http://www4.ncsu.edu/~efg/
+------------------------------------------------------------------------=
+
+------------------------------
+
+Date:    Mon, 3 Sep 2007 19:00:39 -0400
+From:    Paul Tymann <ptt@CS.RIT.EDU>
+Subject: 2008 ASEE Annual Conference
+
+American Society for Engineering Education
+Software Engineering Constituent Committee
+2008 Annual Conference Call for Papers and Reviewers
+
+
+The ASEE Software Engineering Constituent Committee (SwECC) invites
+papers for the 2008 ASEE annual conference. We will be accepting papers
+related to all areas of software engineering education.  Papers in the
+following topic areas are of particular interest: new looks at teaching
+"classic" topics, such as, requirements, modeling, design, architecture,
+verification and validation, maintenance and evolution, software
+process, and formal methods; pedagogical approaches for teaching
+"contemporary" topics, such as, engineering of secure software systems,
+web-based systems, and software development in a globally distributed
+environment; software engineering capstone experiences; software
+engineering within multi-disciplinary capstone projects;  intellectual
+property issues in industry-academic relationships; accreditation
+experience reports; curriculum design using SwEBOK and the Software
+Engineering volume; capitalizing on internship, co-operative work, or
+study aboard experiences; integration of software engineering
+undergraduate and graduate programs; and, mechanisms for individual and
+team evaluation in team projects.
+
+The two-step review process will consist of an abstract review followed,
+if favorable, by a full manuscript review. Acceptance of the work at
+both stages of review is necessary for presentation in SwECC sessions.
+Abstracts are judged on level of innovation, technical merit,
+demonstrated outcomes and relevance to software engineering education.
+Full manuscripts will be judged on these same criteria as well as on
+accuracy, completeness, readability and rigor of presentation. The SwECC
+uses the publish-to-present rule for the annual conference. All
+presenters are expected to register for and attend the conference. Each
+abstract should be 250 - 500 words long. All abstracts must be submitted
+through SmoothPaper, http://www.asee.org/SmoothPaper, which will open
+for submissions on September 4, 2008.
+
+This is also a solicitation for volunteers to review submitted abstracts
+and papers.  If you can be a reviewer, please e-mail the SwEEC Program
+Chair.
+
+For more information or to volunteer as a reviewer, please contact the
+2008 SwEEC Program Chair, Jim Vallino (J.Vallino@se.rit.edu,
+585-475-2991); Department of Software Engineering; Rochester Institute
+of Technology.
+--
+Paul.
+
+===================================================================
+Paul Tymann                                 Email:  ptt@cs.rit.edu
+Chair and Professor
+Rochester Institute of Technology           Phone:  +1.585.475.7908
+Computer Science Department                 Fax:    +1.585.475.7100
+102 Lomb Memorial Drive
+Rochester, NY  14623-5608                   Office: 70-3025
+===================================================================
+
+------------------------------
+
+End of SIGCSE-members Digest - 2 Sep 2007 to 3 Sep 2007 (#2007-142)
+*******************************************************************

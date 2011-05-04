@@ -1,0 +1,173 @@
+From LISTSERV@LISTSERV.ACM.ORG Sat Oct 06 21:49:57 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l973nvZi028631
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Sat, 6 Oct 2007 21:49:57 -0600
+X-ASG-Debug-ID: 1191728995-50fa005c0000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1191728995
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 11C85295EDA
+	for <crader@MINES.EDU>; Sat,  6 Oct 2007 21:49:55 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <4.003F30DA@ozzie.acm.org>; 7 Oct 2007 0:00:29 -0400
+Date:     Sun, 7 Oct 2007 00:00:18 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 5 Oct 2007 to 6 Oct 2007 (#2007-164)
+Subject: SIGCSE-members Digest - 5 Oct 2007 to 6 Oct 2007 (#2007-164)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200710070000180460.E9C6@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.30483
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There are 2 messages totalling 135 lines in this issue.
+
+Topics of the day:
+
+  1. CFP: SIGCSE 2008 Doctoral Consortium
+  2. Tenure-Track Positions in Computer Science, MSCD
+
+----------------------------------------------------------------------
+
+Date:    Sat, 6 Oct 2007 08:32:21 -0700
+From:    Josh Tenenberg <jtenenbg@U.WASHINGTON.EDU>
+Subject: CFP: SIGCSE 2008 Doctoral Consortium
+
+                       Call for participation
+                    Doctoral Consortium at SIGCSE 2008
+                           March 12, 2008
+
+The SIGCSE Doctoral Consortium (DC) is an annual event designed to
+benefit Ph.D. students in computing-related areas who are planning a
+career in academia. Students pursuing research related to computing
+education are a primary focus. The DC is a full-day workshop (8:30am
+through dinner) held the day before the regular sessions of the SIGCSE
+Technical Symposium begin. Those wishing to attend must first apply by
+November 7, 2007. Travel support for participation is available for
+attendees. For application information, see:
+   http://depts.washington.edu/sigcsedc/
+
+The aims of the Doctoral Consortium are:
+         * To offer a friendly forum for students to discuss their work
+        and receive constructive feedback so as to advance each
+        student's research.
+         * To provide relevant information on issues important to
+        doctoral candidates.
+         * To nurture a community of researchers in computing
+        education.
+
+The Consortium is designed for students currently enrolled in a
+Ph.D. program. The Consortium allows participants to interact with
+established university researchers in computing education (the
+discussants) and with other PhD students, and to reflect -- through
+short activities, information sessions, and discussions -- on the
+process and lessons of research and life in academia.
+
+Questions or comments? Please contact the coordinators:
+   Josh Tenenberg: jtenenbg@u.washington.edu
+   Donald Joyce:   djoyce@unitec.ac.nz
+
+
+--------------------------------------
+
+Josh Tenenberg, Ph.D., Professor
+Computing and Software Systems
+Institute of Technology
+University of Washington, Tacoma
+Campus Box 358426
+1900 Commerce St
+Tacoma WA 98402-3100
+voice: 253.692.5860
+fax: 253.692.5862
+http://faculty.washington.edu/jtenenbg
+jtenenbg@u.washington.edu
+
+------------------------------
+
+Date:    Sat, 6 Oct 2007 15:54:28 -0600
+From:    "Dr. Jody Paul" <jody@ACM.ORG>
+Subject: Tenure-Track Positions in Computer Science, MSCD
+
+The Department of Mathematical and Computer Sciences at Metropolitan
+State College of Denver announces the availability of two tenure-
+track positions at the Assistant or Associate Professor level,
+starting Fall 2008.
+
+Since opening its doors in 1965, Metropolitan State College of Denver
+has evolved into the largest public, Baccalaureate College in the
+nation and the third largest institution of higher education in
+Colorado.  The College offers Bachelor of Science, Bachelor of Arts,
+Bachelor of Fine Arts and Bachelor of Music degrees - as well as an
+Individualized Degree Program.  Metro State is committed to
+delivering a quality education to a diverse and talented student body
+of more than 20,000 students on a downtown, 124-acre campus shared
+with two other post-secondary institutions.
+
+Visit Metro State at http://www.mscd.edu
+
+
+Full position details and application information at:
+https://www.mscdjobs.com/applicants/jsp/shared/
+
+Use "Search Postings" with Department: Computer Science
+
+
+
+Position Number: F245
+Posting Number: 0600065
+Department: Computer Science
+Position begins: August 2008
+Screening begins: December 1, 2007
+
+Required Qualifications:
+Minimum requirement is a doctoral degree (by August 1, 2008) in the
+field of Computer Science
+
+Position Summary:
+Teach 12 hours per semester of undergraduate courses in an ABET-
+accredited computer science program, including evenings on a regular
+basis; advise students; participate in course and program
+development; pursue scholarly and professional activities appropriate
+for the undergraduate teaching mission of the College; perform
+college and professional service; work cooperatively with diverse
+groups; perform other duties as assigned by the Chair; teach a broad
+range of lower and upper division undergraduate computer science
+courses; and work with and be sensitive to the educational needs of a
+diverse urban population.
+
+Applicants please submit:
+1) a cover letter relating the applicant's expertise to the
+qualifications listed above;
+2) a current curriculum vitae;
+3) three current letters of recommendation from people who are in a
+position to know the applicant's expertise and teaching effectiveness;
+4) evidence of effective teaching at the undergraduate level
+(including student evaluations, if available);
+5) a complete description of scholarly activities;
+6) a list of all computer science courses taught; and
+7) copies of all college transcripts. (Official transcripts will be
+required of all finalists.)
+
+Submit to:
+  Chair, Search Committee for Computer Science
+  Department of Mathematical and Computer Sciences
+  Metropolitan State College of Denver
+  P.O. Box 173362, Campus Box 38
+  Denver, CO 80217-3362
+  E-mail: shultzj@mscd.edu
+  Phone: 303-556-3208 Fax: 303-556-5381
+
+------------------------------
+
+End of SIGCSE-members Digest - 5 Oct 2007 to 6 Oct 2007 (#2007-164)
+*******************************************************************

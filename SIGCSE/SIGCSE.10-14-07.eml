@@ -1,0 +1,66 @@
+From LISTSERV@LISTSERV.ACM.ORG Sat Oct 13 21:50:20 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l9E3oKtN031207
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Sat, 13 Oct 2007 21:50:20 -0600
+X-ASG-Debug-ID: 1192333815-6e84002e0000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1192333815
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 8BC942B304E
+	for <crader@MINES.EDU>; Sat, 13 Oct 2007 21:50:15 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <1.004007BD@ozzie.acm.org>; 14 Oct 2007 0:00:59 -0400
+Date:     Sun, 14 Oct 2007 00:00:47 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 11 Oct 2007 to 13 Oct 2007 (#2007-170)
+Subject: SIGCSE-members Digest - 11 Oct 2007 to 13 Oct 2007 (#2007-170)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200710140000478900.3574@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.31099
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There is 1 message totalling 27 lines in this issue.
+
+Topics of the day:
+
+  1. XNA in CS classes
+
+----------------------------------------------------------------------
+
+Date:    Sat, 13 Oct 2007 22:57:46 -0400
+From:    "Francis, Howard" <francis@PC.EDU>
+Subject: XNA in CS classes
+
+Hey all,
+=20
+I'm mulling around some ideas to change my classes, and I've stumbled =
+across Microsoft's XNA Framework. I was wondering if anyone else has =
+tried this already and what they might recommend. Success stories? =
+Failure stories? Textbook options? I find the possibility of having =
+students write to XBox particularly interesting, especially in how it =
+might attract more students to the program.
+=20
+I'll summarize if there's interest.
+=20
+Thanks,
+=20
+Mr. Howard V Francis
+Associate Professor of Mathematics and Computer Science
+Pikeville College
+Pikeville, KY
+
+------------------------------
+
+End of SIGCSE-members Digest - 11 Oct 2007 to 13 Oct 2007 (#2007-170)
+*********************************************************************

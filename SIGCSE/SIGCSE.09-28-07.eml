@@ -1,0 +1,314 @@
+From LISTSERV@LISTSERV.ACM.ORG Thu Sep 27 21:51:00 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l8S3p0ho002910
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Thu, 27 Sep 2007 21:51:00 -0600
+X-ASG-Debug-ID: 1190951454-6f4c00510000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1190951454
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 6EF5125C5FC
+	for <crader@MINES.EDU>; Thu, 27 Sep 2007 21:50:54 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <4.003DC9D8@ozzie.acm.org>; Fri, 28 Sep 2007 0:01:15 -0400
+Date:     Fri, 28 Sep 2007 00:01:04 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 26 Sep 2007 to 27 Sep 2007 (#2007-158)
+Subject: SIGCSE-members Digest - 26 Sep 2007 to 27 Sep 2007 (#2007-158)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200709280001042500.6561@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.29660
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There are 6 messages totalling 285 lines in this issue.
+
+Topics of the day:
+
+  1. Two Tenure Track Positions at the University of South Alabama, Mobile, AL.
+  2. CCSCNE conference
+  3. flash programming
+  4. Tenure-track Position at Macalester College
+  5. Tenure-Trace CS Position at Montclair State
+  6. Electronic Commerce Text for InfoSys majors
+
+----------------------------------------------------------------------
+
+Date:    Wed, 26 Sep 2007 18:32:11 -0500
+From:    Dawn McKinney <dmckinney@USOUTHAL.EDU>
+Subject: Two Tenure Track Positions at the University of South Alabama, Mobile, AL.
+
+University of South Alabama
+School of Computer and Information Sciences
+
+The School of Computer and Information Sciences at the University of
+South Alabama offers undergraduate programs in Computer Science,
+Information Systems, and Information Technology and masters’ programs in
+Computer Science and Information Systems.  The undergraduate programs
+are all ABET accredited.  A masters’ program in Information Technology
+is under consideration.  The School of Computer and Information Sciences
+invites applications for two full-time tenure-track faculty positions
+for Fall 2008. The positions are targeted for the Assistant Professor
+level, but exceptional candidates at the Associate Professor level will
+be considered. Applicants must demonstrate a strong record of, or show
+potential for, excellence in research, funding, and teaching.
+
+Position One: Ph.D. in Information Systems, Information Technology, or a
+closely related area.  The successful candidate will be able to teach
+undergraduate and graduate courses in two or more of the following
+areas: Database Management, Data Mining, Data Warehousing,
+Bio-informatics, Project Management, Object Oriented Analysis and Design
+(with UML), and Web-based Applications Development.
+
+Position Two: Ph.D. in Information Technology, Computer Science,
+Information Systems, or a closely related area.  The successful
+candidate will be able to teach undergraduate and graduate courses in
+Network Infrastructure, Network Administration, Network Security,
+Computer Forensics, and Information Assurance and will be expected to
+assist the Information Technology coordinator and the Director of
+Graduate Studies with the establishment of an Information Technology
+graduate program and computer forensics concentrations at the
+undergraduate and graduate levels.
+A letter of application, along with a resume and 3 references must be
+sent to:
+
+Chair, Faculty Search Committee, FCW 20, School of Computer and
+Information Sciences, University of South Alabama, Mobile, Alabama
+36688.  Review of applications will begin on December 15, 2007, and will
+continue until the position is filled.
+Faculty representatives will be available to meet with candidates and
+potential candidates at the ICIS 2007 conference. The University of
+South Alabama is an Equal Opportunity/Equal Access Employer.
+
+
+
+
+
+
+--------------------------------------------------------------------------------------------
+
+------------------------------
+
+Date:    Wed, 26 Sep 2007 18:01:02 -0400
+From:    David Hemmendinger <hemmendd@UNION.EDU>
+Subject: CCSCNE conference
+
+        The thirteenth annual conference of the Consortium for
+Computing Sciences in Colleges, Northeast Division, will be held
+at Wagner College, Staten Island, NY, on April 11-12, 2008, in
+cooperation with ACM SIGCSE.
+        We are pleased to announce that our two plenary-session
+speakers will be Brian Kernighan (Princeton University and Bell Labs)
+and Mary Beth Rosson (Penn State University).
+        CCSCNE invites papers and proposals for panels, tutorials
+or workshops on all aspects of undergraduate computing education.
+Conference papers and abstracts of tutorials and panels will be
+published in the Journal of Computing Sciences in Colleges, which
+is part of the ACM Digital Library.
+         Contributions on innovative courses and curricula in
+two-year and four-year college programs; on the results of educational
+research projects, classroom experiences or teaching techniques;
+on societal or gender and diversity issues, distance education and
+non-traditional students; on the use of new instructional technologies
+or other aspects of pedagogy are all welcome.  We urge prospective
+authors to look at the Journal of Computing Sciences in Colleges
+to see what has been presented recently at CCSC conferences.
+        The conference will also have a student poster session and a
+programming contest.
+        Please see http://www.ccscne.org/2008 for further details.
+
+Important dates:
+        Paper submission deadline:                       Nov 19
+        Panel, workshop, and tutorial proposal deadline: Dec  3
+        Author notification:                             Jan 15
+        Camera-ready copy due:                           Jan 31
+        Student poster abstracts due:                    Feb 11
+
+        David Hemmendinger
+        CCSCNE membership chair
+
+------------------------------
+
+Date:    Wed, 26 Sep 2007 16:03:42 -0400
+From:    "Manuel A. Perez-Quinones" <perez@CS.VT.EDU>
+Subject: flash programming
+
+Hi,
+
+Is anyone out there using Flash programming (actionscript) in any of
+your courses? Anyone using it in the intro sequence?  I'll summarize
+for the list if there is enough interest.
+
+Thanks
+
+Manuel A. Perez-Quinones, DSc.
+------------------------------------------------------------------------
+-------
+Dept. of Computer Science, Virginia Tech
+Email:perez@cs.vt.edu Phone: (540)231-2646 Web: http://perez.cs.vt.edu/
+
+We are better than we think and not quite what we want to be...
+We are the Hokies. We will prevail.
+- Nikki Giovanni
+
+------------------------------
+
+Date:    Wed, 26 Sep 2007 09:49:57 -0500
+From:    Susan Fox <fox@MACALESTER.EDU>
+Subject: Tenure-track Position at Macalester College
+
+MACALESTER COLLEGE
+Tenure-Track Computer Science Position
+
+Macalester College invites applications for a tenure-track position in
+Computer Science to begin fall 2008.  Rank is open. Candidates must have
+completed a Ph.D. in Computer Science or a related field by the time of
+appointment.  Preference will be given to applicants who can demonstrate
+a commitment to excellence in teaching across the computer science
+curriculum at the undergraduate level, who can develop a vigorous
+research program that involves undergraduates, and who can contribute to
+the broader intellectual life of the College. We seek a candidate with
+expertise in an area of computer science that complements current
+faculty interests.  This includes, but is not limited to, computer
+security, distributed systems, embedded systems, networks, ubiquitous
+computing, operating systems, or computer graphics.
+
+Macalester College is a highly selective, private liberal arts college,
+with a diverse student body of over 1800 undergraduates from 50 states
+and over 90 countries.  The Department of Mathematics and Computer
+Science is the largest department at the college, both in terms of
+faculty and student enrollments. It offers majors in mathematics and
+computer science.  The Department of Mathematics and Computer Science
+values working closely with students on independent and research
+projects, has a history of national leadership in curriculum
+development, and encourages innovation in teaching at all levels.
+Applicants should visit http://www.macalester.edu/mathcs for more
+information about the college, department, and position.
+
+Applicants may apply online via www.academicjobsonline.org, or may mail
+application materials to Professor Susan Fox, Math/CS Dept., Macalester
+College, 1600 Grand Avenue, St. Paul, MN 55105. Application materials
+should include a resume, a statement of research interests, and a
+statement of teaching interests and philosophy.  Applicants should
+arrange for three letters of reference to be submitted, online or
+through the mail.  Evaluation of applications will begin January 1, 2008
+and continue until the position is filled.
+
+As an Equal Opportunity employer supportive of affirmative efforts to
+achieve diversity among its faculty, Macalester College strongly
+encourage applications from women and members of underrepresented
+minority groups.
+
+------------------------------
+
+Date:    Tue, 25 Sep 2007 16:10:37 -0400
+From:    Dorothy Deremer <deremerd@MAIL.MONTCLAIR.EDU>
+Subject: Tenure-Trace CS Position at Montclair State
+
+MONTCLAIR STATE UNIVERSITY, MONTCLAIR, NJ
+Computer Science Faculty Tenure Track Opening Fall 2008
+
+
+The Department of Computer Science invites applications for a tenure track
+assistant or associate professor in computer science starting September
+1, 2008.
+The Department's 13 faculty support the BS with an ABET CAC accredited
+track,
+the BS in Information Technology and the MS in Computer Science. The
+position
+requires a willingness to teach a variety of computer science and
+information
+technology courses at all levels to ethnically diverse students. The
+candidate will
+work as a member of interdisciplinary teams as the Department develops
+and modifies
+computing undergraduate and graduate programs. In addition, the
+successful candidate
+is expected to support the teaching of and to pursue research in
+database and applications
+of database.
+
+
+Qualifications include experience in Object Oriented technology and modern
+architectures with several operating systems and a PhD in Computer
+Science or very
+closely related area with research in database and applications of
+database technology.
+Candidates must have good communication skills. We give preference to
+candidates with
+experience in teaching undergraduate computing courses and in working as
+a member of
+a team. All faculty are expected to have an ongoing research plan, to
+commit to quality
+teaching, to be involved in professional activities, and to pursue
+grants. Rank and salary are
+dependent on qualifications.
+
+
+Candidates should complete the online interest form at
+http://cs.montclair.edu/cssearch/Interest-Form.html
+and send hardcopy (no email documents) that includes resume, at least
+three professional
+references, statement of research interests, teaching philosophy with
+experience, and professional
+goals to Search Committee � V# F31, Department of Computer Science,
+Montclair State
+University, Montclair, NJ 07043. Screening begins immediately and
+continues until the position is filled.
+
+
+--
+Dr. Dorothy Deremer
+Department of Computer Science
+Montclair State University, Montclair, NJ 07043
+http://www.csam.montclair.edu/~deremer/
+phone: 973.655.4166 fax: 973.655.4164
+CSwebpage:http://cs.montclair.edu
+--
+
+------------------------------
+
+Date:    Thu, 27 Sep 2007 09:49:16 -0400
+From:    "Anatole D. Ruslanov" <anatole@CS.FREDONIA.EDU>
+Subject: Electronic Commerce Text for InfoSys majors
+
+Dear Colleagues,
+
+I will be teaching an Electronic Commerce course for our Information Systems
+majors next term (Winter 2008).
+
+I would be interested in your recommendations of a textbook.
+I would appreciate if you could share your syllabus and experience as well.
+
+The Electronic Commerce course is intended to be a senior level course but
+we expect a few well-prepared nonmajors and lower-level students to join as
+well.
+
+Please reply directly to me. I will post a summary if there is an interest.
+
+Thank you and best regards to all,
+
+Anatole
+
+Dr. Anatole D. Ruslanov, Assistant Professor
+Department of Computer and Information Sciences
+2155 Fenton Hall, SUNY Fredonia, NY 14063
+
+Email: anatole@cs.fredonia.edu
+Office: (716) 673 - 3705
+
+URL: http://www.cs.fredonia.edu/anatole
+
+------------------------------
+
+End of SIGCSE-members Digest - 26 Sep 2007 to 27 Sep 2007 (#2007-158)
+*********************************************************************

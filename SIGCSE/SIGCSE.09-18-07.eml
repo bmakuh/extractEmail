@@ -1,0 +1,165 @@
+From LISTSERV@LISTSERV.ACM.ORG Mon Sep 17 21:50:56 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l8I3ouDY024353
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Mon, 17 Sep 2007 21:50:56 -0600
+X-ASG-Debug-ID: 1190087452-2f3a00050000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1190087452
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 1431225A9A4
+	for <crader@MINES.EDU>; Mon, 17 Sep 2007 21:50:53 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <2.003C80F3@ozzie.acm.org>; Tue, 18 Sep 2007 0:00:59 -0400
+Date:     Tue, 18 Sep 2007 00:00:48 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 16 Sep 2007 to 17 Sep 2007 (#2007-151)
+Subject: SIGCSE-members Digest - 16 Sep 2007 to 17 Sep 2007 (#2007-151)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200709180000484210.08C3@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.28735
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There are 3 messages totalling 127 lines in this issue.
+
+Topics of the day:
+
+  1. Important CCSC 2007 Eastern Conference Deadlines!
+  2. Faculty Positions at Iona College
+  3. Logic Programming and Expert Systems Course Textbook Suggestions
+
+----------------------------------------------------------------------
+
+Date:    Mon, 17 Sep 2007 10:48:35 -0400
+From:    Stephen Corbesero <flash@CS.MORAVIAN.EDU>
+Subject: Important CCSC 2007 Eastern Conference Deadlines!
+
+                     CCSC Eastern 2007 Conference
+                         October 12-13, 2007
+                 St. Joseph's College, Patchogue, NY
+                      http://www.sjcny/ccsce2007
+
+We hope you are all set and ready to join us for what promises to be a
+very worthwhile conference. Because of the late starting date of some
+schools and the holidays last week, we have extended the deadlines to
+September 21st, so you have until this Friday to take advantage of the
+early bird registration rates.
+
+    Don't miss out--get your registration in this week!
+    Check the website for registration forms and travel details!
+
+
+Also, you can still submit a Faculty or Student Poster or enter a
+Programming Competition team until September 21st.  We are still
+accepting session chairs and poster and programming competition
+judges. Even if you are already a presenter, if you would like to
+assist with any of these things, just send me an email indicating your
+preferences.
+
+Submissions for the "Nifty Ideas" and "Lightning Talks" sessions are
+now closed.
+
+We look forward to meeting all of you in October!
+
+--
+S. Jane and the CCSCE 2007 Conference Committee
+
+------------------------------
+
+Date:    Mon, 17 Sep 2007 16:07:55 -0400
+From:    "Catherine M. Ricardo" <cricardo@IONA.EDU>
+Subject: Faculty Positions at Iona College
+
+Iona College
+Computer Science Department
+Multiple tenure-track faculty positions for Fall 2008
+
+
+The Computer Science department seeks candidates for tenure-track
+positions at the rank of Assistant Professor starting Fall 2008. By the
+beginning of employment, candidates must have earned a PhD in Computer
+Science and have a strong commitment to both teaching and research in a
+liberal arts environment. The department=92s programs include an ABET-
+accredited Bachelor of Science in Computer Science, as well as a Bachelor
+of Arts and Master of Science in Computer Science.  In addition, the
+department administers master=92s degree programs in Telecommunication and
+Educational Technology.
+
+Iona College is located in New Rochelle, NY, a close suburb of New York
+City.  Iona is a college in the tradition of the Christian Brothers and
+American Catholic higher education.
+
+Send applications in the form of a vita, a statement of teaching and
+research interests, and contact information for three references by
+November 1, 2007 using mail or e-mail to:
+
+Lubomir Ivanov
+Search Committee Chair
+Computer Science Department
+Iona College
+715 North Avenue
+New Rochelle, N.Y. 10801
+livanov@iona.edu
+
+AA/EOE
+
+------------------------------
+
+Date:    Mon, 17 Sep 2007 17:29:27 -0500
+From:    "H. Conrad Cunningham" <hcc@CS.OLEMISS.EDU>
+Subject: Logic Programming and Expert Systems Course Textbook Suggestions
+
+About 10 months ago I requested suggestions for textbooks or text materials
+for a course on "Logic Programming and Expert Systems" that I planned to
+revive (after more than a decade of dormancy).  Not being an AI person, I
+planned to focus more on the programming and software engineering aspects.
+
+For various reasons, I had to delay the offering of the course from the 2007
+Fall semester (August-December) until the 2008 Spring semester (January-May).
+So I am again looking at textbooks.
+
+The book suggested by several responses was Ivan Bratko's Prolog Programming
+for Artificial Intelligence, Third Edition, 2001, from Addison-Wesley in the
+UK.  After a bit of pushing on my AW rep here in the US, I got an examination
+copy of the book from the US distributor for the UK AW books or something
+such.
+
+The Bratko book seems to be good.  However, I have a few questions yet.
+
+(1) The website for the Bratko book seems long gone.  Are there any support
+materials for use of the book such as slides, electronic copies of the
+programs, etc?
+
+(2) Although not extremely expensive as contemporary books go at US$76, it is
+still a bit costly, especially if I only want to use it for about half of the
+course and other materials for the "expert systems" part.  I note a free
+online book called Learn Prolog Now (also available in print for US$25).
+Does anyone have experience using that book?  Or other inexpensive
+alternatives?
+
+(3) I am interpreting the "expert systems" part to be "rule-based programming"
+and (probably) plan to emphasize issues like building business rules bases.
+I am considering using either JESS or JBoss Rules for this part.  I know
+there is a programming book on JESS by its developer.  I can't find any book
+on JBoss Rules (or Drools as it was previously called).  I was wondering if
+anyone has attempted to use either of these for a class.  Are there any
+teaching materials for either?
+
+Thanks.
+
+Conrad Cunningham, University of Mississippi, USA
+
+------------------------------
+
+End of SIGCSE-members Digest - 16 Sep 2007 to 17 Sep 2007 (#2007-151)
+*********************************************************************

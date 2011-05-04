@@ -1,0 +1,310 @@
+From LISTSERV@LISTSERV.ACM.ORG Mon Oct 15 21:50:55 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l9G3osa0030225
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Mon, 15 Oct 2007 21:50:54 -0600
+X-ASG-Debug-ID: 1192506651-65ce00590000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1192506651
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id 5B18624BBCA
+	for <crader@MINES.EDU>; Mon, 15 Oct 2007 21:50:51 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <0.003A9E96@ozzie.acm.org>; Tue, 16 Oct 2007 0:01:38 -0400
+Date:     Tue, 16 Oct 2007 00:01:26 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 14 Oct 2007 to 15 Oct 2007 (#2007-172)
+Subject: SIGCSE-members Digest - 14 Oct 2007 to 15 Oct 2007 (#2007-172)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200710160001269370.97BA@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.31265
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There are 3 messages totalling 270 lines in this issue.
+
+Topics of the day:
+
+  1. OOPSLA Educator's Symposium - Advance Registration Closing
+  2. Info about SIGCSE 2008, Portland, Oregon: March 12-15, 2008
+  3. Tenure-track Positions at Radford University
+
+----------------------------------------------------------------------
+
+Date:    Sun, 14 Oct 2007 20:11:28 -0400
+From:    Joseph Bergin <berginf@PACE.EDU>
+Subject: OOPSLA Educator's Symposium - Advance Registration Closing
+
+--============_-1019715403==_ma============
+Content-Type: text/plain; charset="iso-8859-1" ; format="flowed"
+Content-Transfer-Encoding: quoted-printable
+
+
+Join us at OOPSLA's 16th Educators' Symposium,=20
+the premier forum for educators in academia and=20
+industry with an interest in object-oriented and=20
+other related technologies. This one-day=20
+symposium offers a venue for consultants and=20
+academics to share experiences and to explore new=20
+ideas that can help us understand and teach=20
+better. It achieves these goals through featured=20
+talks, paper presentations, interactive sessions,=20
+demonstrations, posters, and group discussions.
+
+Online registration is open through October 17;=20
+after the 17th you can register by fax or on-site=20
+at OOPSLA. The Educators' Symposium is a terrific=20
+educational value itself. The full day is $160,=20
+or $135 for ACM members, $45 for Secondary=20
+Education teachers (including CEGEP educators=20
+from Quebec), and $35 for ACM Students.
+
+Please register now and join us at OOPSLA!
+
+The program of speakers, papers and activities can be found at:
+http://www.oopsla.org/oopsla2007/index.php?page=3Dprogram/educators/
+
+Joe
+--
+Joseph Bergin, Professor
+Pace University, Computer Science, One Pace Plaza, NY NY 10038
+EMAIL jbergin@pace.edu
+HOMEPAGE http://csis.pace.edu/~bergin/
+---
+"In theory, theory is the same as practice, but not in practice ."
+- Fnord Bj=F8rnberger
+--============_-1019715403==_ma============
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html public "-//W3C//DTD W3 HTML//EN">
+<html><head><style type=3D"text/css"><!--
+blockquote, dl, ul, ol, li { padding-top: 0 ; padding-bottom: 0 }
+ --></style><title>OOPSLA Educator's Symposium - Advance Registration
+Closing</title></head><body>
+<div><b>&nbsp;</b></div>
+<div>Join us at OOPSLA's 16th Educators' Symposium, the premier forum
+for educators in academia and industry with an interest in
+object-oriented and other related technologies. This one-day symposium
+offers a venue for consultants and academics to share experiences and
+to explore new ideas that can help us understand and teach better. It
+achieves these goals through featured talks, paper presentations,
+interactive sessions, demonstrations, posters, and group
+discussions.</div>
+<div>&nbsp;</div>
+<div>Online registration is open through October 17; after the 17th
+you can register by fax or on-site at OOPSLA. The Educators'
+Symposium is a terrific educational value itself. The full day is
+$160, or $135 for ACM members, $45 for Secondary Education teachers
+(including CEGEP educators from Quebec), and $35 for ACM
+Students.</div>
+<div>&nbsp;</div>
+<div>Please register now and join us at OOPSLA!</div>
+<div><br></div>
+<div>The program of speakers, papers and activities can be found
+at:</div>
+<div
+>http://www.oopsla.org/oopsla2007/index.php?page=3Dprogram/educators/</div
+>
+<div><br></div>
+<div>Joe</div>
+<x-sigsep><pre>--
+</pre></x-sigsep>
+<div><font face=3D"Geneva" size=3D"-2" color=3D"#000000">Joseph Bergin,
+Professor<br>
+Pace University, Computer Science, One Pace Plaza, NY NY
+10038</font></div>
+<div><font face=3D"Geneva" size=3D"-2" color=3D"#000000">EMAIL
+jbergin@pace.edu<br>
+HOMEPAGE http://csis.pace.edu/~bergin/</font></div>
+<div><font face=3D"Geneva" size=3D"-2" color=3D"#000000">---</font></div>
+<div><font face=3D"Courier" size=3D"-2" color=3D"#000000">&quot;In theory,
+theory is the same as practice, but not in practice
+=2E&quot;</font></div>
+<div><font face=3D"Courier" size=3D"-2" color=3D"#000000">- Fnord
+Bj=F8rnberger</font></div>
+</body>
+</html>
+--============_-1019715403==_ma============--
+
+------------------------------
+
+Date:    Mon, 15 Oct 2007 12:36:48 -0400
+From:    Susan Rodger <rodger@CS.DUKE.EDU>
+Subject: Info about SIGCSE 2008, Portland, Oregon: March 12-15, 2008
+
+We are pleased to provide you with information about the SIGCSE 2008
+conference to be held in Portland, Oregon: March 12-15, 2008.
+
+              http://www.cs.duke.edu/sigcse08
+
+Ten highlights here on information about SIGCSE 2008 including
+how it may be different than years past and why you should head to
+SIGCSE in the northwest this year!
+
+More details on these items are below.
+
+1) Call for Posters and Bofs: Deadline November 5
+2) Registration rates - same as 2007!
+3) Conference hotel - free metro ride from convention center
+4) Events in the Conference Hotel
+5) Three Keynote Speakers: Mayer, Lazowska and SIGCSE Award Winner
+6) Saving trees - CD instead of paper proceedings
+7) Come early for the pre-conference events
+8) Stay late for a workshop! Portland TrailBlazers! Cirque du Soleil!
+9) Find a roommate - available now
+10) Portland is great! No sales tax, wine country, nice restaurants!
+
+Here are more details.
+
+1) Call for Posters and Bofs: Deadline November 5
+
+There is still a chance to submit. See details at:
+
+              http://www.cs.duke.edu/sigcse08/authors.html
+
+2) Registration rates - same as 2007!
+
+We've managed to keep the registration rates the same as 2007.
+Registration rates are posted on the attendees page:
+
+              http://www.cs.duke.edu/sigcse08/attendees.html
+
+Registration will be available in November.
+
+3) Conference hotel - free metro ride from convention center
+
+The conference hotel, the Hilton Portland and Executive Towers,
+will be in downtown Portland. The Oregon Convention Center
+is across the river. There is a free metro (called MAX) that you can
+take one block from the Hilton and it drops you off right in front
+of the convention center.
+
+Two other hotels, Inn at the Convention Center and the Red Lion,
+will be available near the convention center.
+
+Hotel registration should be available soon on the conference site.
+
+4) Events in the conference hotel
+
+The Birds of a Feather and the Thursday night SIGCSE Reception will
+be held at the Conference Hotel, The Portland Hilton and Executive
+Towers. All other events will be held at the Oregon Convention Center.
+
+5) Three Keynote Speakers: Mayer, Lazowska and SIGCSE Award Winner
+
+We have three keynote speakers lined up. The SIGCSE Award Winner (to
+be determined) will speak on Thursday. Marissa Mayer, Vice President
+of Search Products and User Experience, at Google will speak on Friday
+morning. Ed Lazowska, the Bill and Melinda Gates Chair in Computer
+Science and Engineering at the University of Washington will speak at
+the Saturday Luncheon.
+
+6) Saving trees - CD instead of paper proceedings
+
+We will be saving trees and issuing CD proceedings instead of paper.
+You can pre-order a paper proceedings for $35. Please register
+early to guarantee availability of paper, as we will limit the printing
+of paper proceedings.
+
+7) Come early for the pre-conference events
+
+There will be a Doctoral Consortium and Roundtable for Department
+Chairs during the day on the Wednesday before SIGCSE. There may be other
+pre-conference events scheduled on this date.
+
+And as usual, there will be SIGCSE Wednesday night workshops starting
+at 7pm.
+
+8) Stay late for a workshop! Portland TrailBlazers! Cirque du Soleil!
+
+Saturday workshops will be scheduled from 4-7pm.
+
+Saturday night you could watch the Portland Trailblazers play at 7pm (you
+can walk across the street to the arena after attending a workshop!) or
+catch a Cirque du Soleil show.
+
+9) Find a roommate - available now
+
+If you would like to find a roommate, Paul Tymann has graciously
+provided the Roommate Database again this year. Please check it out
+now on the attendees page.
+
+           http://www.cs.duke.edu/sigcse08/attendees.html
+
+10) Portland is great! No sales tax, wine country, nice restaurants!
+
+That's right, stay and shop, there is no sales tax in Oregon. Also
+check out a winery and try some of the many nice restaurants. We have
+included a google map on the attendees page that shows the conference
+hotels, the convention center and many recommended restaurants.
+
+And we have ordered sunny weather!
+
+Susan Rodger and J.D. Dougherty
+SIGCSE 2008 Symposium Chairs
+rodger@cs.duke.edu, jd@cs.haverford.edu
+
+===========================================================================
+Susan Rodger, Associate Professor of the Practice
+Dept. of Computer Science, Box 90129
+LSRC Room D237
+Duke University, Durham, NC 27708-0129
+Email:  rodger@cs.duke.edu      URL: http://www.cs.duke.edu/~rodger
+Phone: (919)-660-6595           Fax: (919)-660-6519
+
+------------------------------
+
+Date:    Mon, 15 Oct 2007 16:27:48 -0400
+From:    Ned Okie <nokie@RADFORD.EDU>
+Subject: Tenure-track Positions at Radford University
+
+Radford University
+Department of Information Technology
+
+Two tenure-track faculty positions at the Assistant Professor level. A
+doctorate in computer science, information systems, information
+technology, or closely related field is required.  Candidates who have
+not completed the Ph.D.  will be considered, but the degree must be
+completed within the first year of service.  The Department offers
+concentrations in computer science (ABET accredited program), networks,
+database, software engineering, business information systems, and web
+development.  Offerings at the graduate and undergraduate level in
+computer security are being developed.  The successful candidate will
+have a commitment to excellence in teaching and a clear and coherent
+research agenda.
+
+Applicants should send a letter of application, vita, copy of
+transcripts, and the names and contact information for three
+references to:
+
+Dr. Edward Okie
+Search Committee Chair
+Box 6933, Radford University
+Radford, VA 24142-6933
+
+Consideration of applicants will begin October 22, 2007 and continue
+until the position is filled. Radford University is an EO/AA employer
+committed to diversity.
+
+--
+Edward G. Okie (Ned)
+Professor of Computer Science                www.it.radford.edu/~nokie
+Department of Information Technology         nokie@radford.edu
+219 Davis Hall                               540-831-5992 (Office)
+Radford University                           540-831-6706 (FAX)
+Radford VA, 24142-6933
+
+------------------------------
+
+End of SIGCSE-members Digest - 14 Oct 2007 to 15 Oct 2007 (#2007-172)
+*********************************************************************

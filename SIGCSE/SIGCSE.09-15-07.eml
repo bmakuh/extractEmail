@@ -1,0 +1,96 @@
+From LISTSERV@LISTSERV.ACM.ORG Fri Sep 14 21:51:45 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l8F3pj0G019389
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Fri, 14 Sep 2007 21:51:45 -0600
+X-ASG-Debug-ID: 1189828303-6ab700620000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1189828303
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id E26C3259E60
+	for <crader@MINES.EDU>; Fri, 14 Sep 2007 21:51:44 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <0.00368E04@ozzie.acm.org>; Sat, 15 Sep 2007 0:01:46 -0400
+Date:     Sat, 15 Sep 2007 00:01:35 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 13 Sep 2007 to 14 Sep 2007 (#2007-149)
+Subject: SIGCSE-members Digest - 13 Sep 2007 to 14 Sep 2007 (#2007-149)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200709150001351710.2687@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.28452
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There is 1 message totalling 57 lines in this issue.
+
+Topics of the day:
+
+  1. OOPSLA Educators Symposium special session
+
+----------------------------------------------------------------------
+
+Date:    Fri, 14 Sep 2007 14:05:08 -0500
+From:    James Caristi <James.Caristi@VALPO.EDU>
+Subject: OOPSLA Educators Symposium special session
+
+If you are planning to attend the OOPSLA Educators Symposium in Montreal, =
+please continue to read this note.
+
+A special 90-minute session is scheduled called "Nifty CS1 Frenzy".  There =
+are quite a few products in the CS education community that attempt to =
+make it easier or better to teach CS1 with objects.  Each of these =
+products has the following in  common:
+1. They are free (no licensing fees or purchase price)
+2. They have a very easy learning curve
+3. They make it easy to do "nifty" things with objects in CS1
+
+Many of us have attended "Nifty Assignment" sessions, where people present =
+assignments that are interesting for both the students and the instructors.=
+  But when we attend these sessions, we watch someone talk about the =
+assignment and display the results.  At least for part of the time at a =
+professional conference, the audience members should be more involved than =
+that.  So in THIS session, it will be the audience members who end up =
+presenting the "nifty" CS1 assignments that they just programmed using a =
+product that, for them, is somewhat new.
+
+Here are the rules.  A number of products (some possible examples: Alice, =
+BlueJ, Greenfoot, JPT, Karel) will be available at various stations with =
+instructors and/or helpers.  There will also be some assignments that =
+would be typically used in CS1.  Everyone will be encouraged to join a =
+pair or small group that will learn to use a product well enough to solve =
+one of the assignments.  In 45 minutes.  Then, during the last 30 minutes, =
+people who solved their assignment may present the results of their =
+experience to the entire group.
+
+If you would like to be the representative (proponent) for a CS1 product =
+at the OOPSLA Eductors Symposium in Montreal on October 22 this year, =
+please contact me as soon as possible.  Let me know what product you wish =
+to have involved in the special session, and a web site that has further =
+information on the product.  You will need to have sample problems that a =
+highly intelligent CS educator (who has never used the product before) =
+would be able to solve within 45 minutes.  You do not need to send me =
+those problems, however.
+
+Jim Caristi
+James.Caristi@valpo.edu=20
+
+--=20
+
+James Caristi
+Dept. of Math & Computer Science
+Valparaiso University
+Valparaiso, IN 46383
+
+------------------------------
+
+End of SIGCSE-members Digest - 13 Sep 2007 to 14 Sep 2007 (#2007-149)
+*********************************************************************

@@ -1,0 +1,178 @@
+From LISTSERV@LISTSERV.ACM.ORG Mon Oct 01 21:52:00 2007
+Return-Path: <owner-SIGCSE-MEMBERS@LISTSERV.ACM.ORG>
+Received: from cardea.Mines.EDU (cardea.Mines.EDU [138.67.252.36])
+	by izzard.Mines.EDU (8.13.1/8.13.1) with ESMTP id l923q0NL005583
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=FAIL)
+	for <crader@MINES.EDU>; Mon, 1 Oct 2007 21:52:00 -0600
+X-ASG-Debug-ID: 1191297115-7e6c009c0000-c5qosF
+X-Barracuda-URL: http://cardea.mines.edu:80/cgi-bin/mark.cgi
+X-Barracuda-Connect: ozzie.acm.org[63.118.7.46]
+X-Barracuda-Start-Time: 1191297115
+Received: from ozzie.acm.org (ozzie.acm.org [63.118.7.46])
+	by cardea.Mines.EDU (Spam Firewall) with ESMTP id E9CC22629AE
+	for <crader@MINES.EDU>; Mon,  1 Oct 2007 21:51:55 -0600 (MDT)
+Received: from ozzie (localhost) by ozzie.acm.org (LSMTP for Windows NT v1.1b) with SMTP id <6.003E4F95@ozzie.acm.org>; Tue, 2 Oct 2007 0:02:20 -0400
+Date:     Tue, 2 Oct 2007 00:02:09 -0400
+Reply-To: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+Sender: SIGCSE Member Forum <SIGCSE-members@LISTSERV.ACM.ORG>
+From: SIGCSE-members automatic digest system <LISTSERV@LISTSERV.ACM.ORG>
+X-ASG-Orig-Subj: SIGCSE-members Digest - 30 Sep 2007 to 1 Oct 2007 (#2007-161)
+Subject: SIGCSE-members Digest - 30 Sep 2007 to 1 Oct 2007 (#2007-161)
+To: SIGCSE-members@LISTSERV.ACM.ORG
+Message-ID: <SIGCSE-members%200710020002090000.4CEF@LISTSERV.ACM.ORG>
+Precedence: list
+X-Barracuda-Virus-Scanned: by CSM Academic Computing and Networking Spam Filter at Mines.EDU
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using per-user scores of TAG_LEVEL=2.0 QUARANTINE_LEVEL=3.1 KILL_LEVEL=1000.0 tests=FROM_NO_LOWER
+X-Barracuda-Spam-Report: Code version 3.1, rules version 3.1.30039
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.20 FROM_NO_LOWER          From address has no lower-case characters
+
+There are 3 messages totalling 141 lines in this issue.
+
+Topics of the day:
+
+  1. Damage control: What to do when things don't work
+  2. flash in cs education (2)
+
+----------------------------------------------------------------------
+
+Date:    Mon, 1 Oct 2007 09:48:37 -0400
+From:    "Dr. Edward F Gehringer" <efg@EOS.NCSU.EDU>
+Subject: Damage control: What to do when things don't work
+
+What should you do when your software breaks, when your labs don't work out,
+when your tests are bombed, when your homework has errors?  These are questions
+every instructor has faced.
+
+Inspired by the SIGCSE 2007 panel on "Teaching Tips We Wish They'd Told Us
+Before We Started," I'm interested in gathering tips and techniques to share
+with new engineering educators at next year's ASEE conference.  I'd be
+interested in hearing from you if you ...
+
+-- have any techniques or anecdotes to mention,
+-- have seen any other articles on the subject, or
+-- know of other listservs where I could post the same query.
+
+I think this survey could turn out to be a great resource.  I know I could often
+use it myself!
+
+I will, of course, be happy to share my conclusions with this list, either when
+the paper is finished next January, or piecemeal earlier upon request.
+
+Thanks,
+Ed
+------------------------------------------------------------------------
+Edward F. Gehringer                     Voice: (919) 515-2066
+Associate Professor                     Fax:   (919) 513-7075
+Computer Science                        E-mail: efg@ncsu.edu
+North Carolina State University         http://www4.ncsu.edu/~efg/
+------------------------------------------------------------------------
+
+------------------------------
+
+Date:    Mon, 1 Oct 2007 12:03:42 -0400
+From:    "Manuel A. Perez-Quinones" <perez@CS.VT.EDU>
+Subject: flash in cs education
+
+Last week I sent a question about uses of Flash in CS Education.
+Here is what I learned.  I have attached the individual examples
+below, listed approximately in chronological order of their arrival.
+
+None stated a particular textbook, several said they are still
+looking for a good textbook to use in their classes.  There were
+several others who were interested in the topic too. Enjoy.
+
+
+Lakshmi Prayaga
+University of West Florida
+Uses it in Intro to game programming Course and finds it extreemly
+good. Students are very motivated because it is an integrated
+environment meaning you can both design and write the code in 1
+place. Also uses it in summer camps which is again very successful.
+
+Timothy T. Yuen (Doctoral Candidate)
+The University of Texas at Austin
+Has taught Flash/ActionScript to children as a way to teach game
+making.  It seemed to work well with the children since visualization
+of the code (through the symbols) was pretty inherent in the
+projects. Studying uses of Flash to teach OO, for more details on his
+dissertation see http://www.csnub.com.
+
+Scott Leutenegger
+University at Denver
+Paper at SIGCSE 2007 (A games first approach to teaching introductory
+programming) about his use of Flash and ActionScript in his "Games
+First" CS1 class. http://doi.acm.org/10.1145/1227310.1227352. Another
+publication at CCSC in 2006. His website is available at http://
+www.cs.du.edu/~leut/.
+
+Bill Hochstettler
+Franklin University
+Franklin University is using it in a course on animation for the web.
+
+Ursula Wolz
+The College of New Jersey
+ActionScript is used in their introductory course CSC 101 which is
+cross-listed with Interactive Multimedia as IMM 120. The course is
+called "Introduction to Interactive Computing."
+
+John Barr
+Ithaca College
+Ithaca College offers a course for non-majors on Flash development
+including actionscript.  They are considering a gaming minor which
+would include this course.
+
+Eric Sedgwick
+DePaul University
+They just started doing this, using ActionScript for intro
+programming for their Interactive Multimedia program.
+
+
+------------------------------------------------------------------------
+-------
+Dept. of Computer Science
+Email:perez@cs.vt.edu Phone: (540)231-2646 Web: http://perez.cs.vt.edu/
+
+It is never too late to become what you might have been.
+-- George Elliot
+
+------------------------------
+
+Date:    Mon, 1 Oct 2007 17:18:32 -0500
+From:    "Vicki L. Almstrum" <almstrum@GMAIL.COM>
+Subject: Re: flash in cs education
+
+Manuel -- I somehow missed your original posting on this. Thank you
+for the summary!
+
+In the Software Engineering course I taught at UT Austin from 1997 to
+2006, many teams used Flash to create software to meet the needs of
+their clients (the required project was often educational software).
+The nature of this SWE class required each team to figure out the
+skills they needed to complete their projects and how to best acquire
+those skills if they did not have them. Unfortunately, the course
+site has been deactivated but I will plan to search through and list
+out resources teams recommended as helpful while they came up to
+speed with Flash.
+
+A seemingly tricky issue is how to make Flash accessible. A former
+student of mine, Thea Eaton, has founded a company to create
+accessible software for pre-college settings. During a panel on
+accessibility that I organized for the Austin chapter of IEEE Women
+in Engineering, Thea explained how to make Flash accessible. Her talk
+combined content and presentation by means of an accessible Flash
+show. Thea's presentation, as well as information from the other
+panelists, are at the URL http://austin-wie.org/minutes/minutes-
+centex-wie-060920.htm
+
+Regards,
+
+-- Vicki
+
+------------------------------
+
+End of SIGCSE-members Digest - 30 Sep 2007 to 1 Oct 2007 (#2007-161)
+********************************************************************
