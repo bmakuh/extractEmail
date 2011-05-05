@@ -12,7 +12,7 @@ sub extractEmail {
 	$counter = 0;
 	foreach $file (@files) {
 		if (-f "$dir/$file" and $file =~ /^SIGCSE\.$date/) {
-			print "Searching for topic: $topic\n";
+			print "Searching for topic: $topic in $date\n";
 			open(FILE, "$dir/$file") or die "error opening file! $!\n";
 			if (@results = grep /$search/, <FILE>) {
 				print "Topic found in: $file\n";
