@@ -11,7 +11,7 @@
 			"file": "/Z/cs400/perl/readDir.pl",
 			"settings":
 			{
-				"buffer_size": 59,
+				"buffer_size": 241,
 				"line_ending": "Windows"
 			}
 		},
@@ -21,6 +21,14 @@
 			{
 				"buffer_size": 1485,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Z/cs400/perl/SIGCSE/SIGCSE.09-04-07.eml",
+			"settings":
+			{
+				"buffer_size": 10631,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -97,6 +105,13 @@
 		"whole_word": false,
 		"wrap": true
 	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/Z/cs400/perl"
+		]
+	},
 	"groups":
 	[
 		{
@@ -108,15 +123,15 @@
 					"file": "/Z/cs400/perl/readDir.pl",
 					"settings":
 					{
-						"buffer_size": 59,
+						"buffer_size": 241,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								58,
-								58
+								114,
+								114
 							]
 						],
 						"settings":
@@ -147,8 +162,8 @@
 						"selection":
 						[
 							[
-								1312,
-								1312
+								972,
+								971
 							]
 						],
 						"settings":
@@ -157,7 +172,33 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0,
-						"translation.y": 714,
+						"translation.y": 660,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Z/cs400/perl/SIGCSE/SIGCSE.09-04-07.eml",
+					"settings":
+					{
+						"buffer_size": 10631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2104,
+								2104
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 255,
 						"zoom_level": 1
 					},
 					"type": "text"
@@ -215,6 +256,6 @@
 	"show_minimap": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 193,
+	"side_bar_width": 208,
 	"status_bar_visible": false
 }
